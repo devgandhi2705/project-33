@@ -50,6 +50,8 @@ function draw() {
   textSize(35);
   fill("blue");
   text("Score : "+score,20,40);
+    
+    console.log("devdhfgbdnms,.");
 
   if(gameState === "start"){
   fill("white");
